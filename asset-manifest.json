@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/r-clock/static/css/main.27c37926.css",
+    "main.js": "/r-clock/static/js/main.a07a68f4.js",
+    "index.html": "/r-clock/index.html",
+    "main.27c37926.css.map": "/r-clock/static/css/main.27c37926.css.map",
+    "main.a07a68f4.js.map": "/r-clock/static/js/main.a07a68f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c37926.css",
+    "static/js/main.a07a68f4.js"
+  ]
+}
