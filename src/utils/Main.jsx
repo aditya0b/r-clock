@@ -1,6 +1,7 @@
 import React from 'react'
 import { useState } from 'react';
 import './CSS/Main.css'
+import { HamMenu } from './Components/Hamburger/Ham';
 import { time, date } from './Stored/var';
 const Clock = () => {
     const [Ctime, setTime] = useState(time)
@@ -15,6 +16,7 @@ const Clock = () => {
     return(
         <>
             <div className="bodydiv">
+                <HamMenu />
                 <div className="Container">
                     <div className="TOP_">
                         <p className='time_'>{Ctime}</p>
